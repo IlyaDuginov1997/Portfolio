@@ -1,0 +1,29 @@
+.footerBlock {
+    background-color: #9dffaa;
+}
+
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.socialPagesBlock {
+    border: 1px solid red;
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contactsContainer a {
+    background-color: #fff2f6;
+    text-decoration: none;
+}
+
+.title {
+    background-color: #fff2f6;
+}
+
+.rightsSpan {
+    background-color: #fdd8ff;
+}
